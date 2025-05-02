@@ -40,3 +40,5 @@ console.log("Hello, world!");
 ```
 
 > This is a blockquote.
+
+![An image of the Painting](https://i.pinimg.com/736x/1d/44/a2/1d44a2427a6c98df6d190f8baf5dfb21.jpg)
